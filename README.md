@@ -2,9 +2,13 @@
 
 # Hi, I'm Raphael Pantaleão (Raphael Pantaleon)
 
-## About Myself
+## 😄 About Myself
 
-## Contact
+I'm a Brazilian Software Developer. I've been building many successful FinTechs, E-commerce and Marketplace projects. I have experience in Java, TypeScript, and C#, and I have been building backend software for 15+ years.
+
+- 💬 Ask me about **Java, Kotlin, TypeScript, Backend, Software Development, and Software Architecture **
+
+## 📫 Contact
 
 <br>
 
@@ -22,7 +26,7 @@
 
 <br>
 
-## Languages and Tools
+## 🛠️ Languages and Tools
 
 <br>
 
@@ -35,7 +39,7 @@
 
 <br>
 
-## Stats
+## ⚡️ Stats
 
 <br>
 
