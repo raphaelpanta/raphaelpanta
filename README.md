@@ -12,13 +12,9 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 
-<br>
-
 <a href="https://www.linkedin.com/in/raphael-pantaleao/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
-
-<br>
 
 <a href="https://medium.com/@raphaelpanta" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
@@ -31,8 +27,10 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=js,git,postman" />
+    <img src="https://skillicons.dev/icons?i=java,ts,cs,kotlin" alt="languages: java, typescript, c#, and koltin"/>
+    <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,prisma,gradle,graphql,idea,jest,vscode" alt="stacks, tools, libraries, ide, and frameworks: spring, nestjs, prisma, gradle, graphql, idea, jest"/>    
+  <img src="https://skillicons.dev/icons?i=aws,mongodb,postgres,dynamodb,kafka,docker, rabbitmq,kubernetes,linux" atl="cloud, databases, message queues: aws, mongodb, postgresql, dynamodb, kafka, rabbitmq, kubernetes, linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman" alt="other tools: git, github, github actions, postman"/>
 </p>
 
 <br>
